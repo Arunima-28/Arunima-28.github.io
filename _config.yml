@@ -11,4 +11,5 @@ github_username: arunima-28
 sass:
   sass_dir: _sass
 
-logo: ./assets/img/image.png
+icon: ./assets/img/image.png
+
